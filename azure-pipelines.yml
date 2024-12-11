@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/RGostin/Space%20Game/_apis/build/status%2FrgostinSW.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/RGostin/Space%20Game/_build/latest?definitionId=1&branchName=build-pipeline)
+
 trigger:
 - '*'
 
